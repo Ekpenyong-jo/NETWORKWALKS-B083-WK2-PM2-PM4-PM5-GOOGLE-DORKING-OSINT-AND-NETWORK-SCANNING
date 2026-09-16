@@ -226,7 +226,7 @@ This screenshot shows the Windows 'ipconfig' output, including the IPv4 address,
 
 This screenshot shows the Zenmap Nmap scan results, including the discovered hosts and available network information from the authorized lab environment.
 
-![Zenmap Nmap Results](Screenshots/zenmap-namap-result.PNG)
+![Zenmap Nmap Results](Screenshots/zenmap-nmap-result.PNG)
 
 ---
 
